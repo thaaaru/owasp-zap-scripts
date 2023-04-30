@@ -1,0 +1,4 @@
+My GitHub Repo: https://github.com/jakescheetz/dotfiles
+OhMyZSH: https://ohmyz.sh
+MIT "Missing Semester of CS" Course: https://missing.csail.mit.edu
+ZSH Syntax Highlighting: https://linuxhint.com/enable-syntax-highlighting-zsh/
