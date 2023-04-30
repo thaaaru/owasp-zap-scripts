@@ -2,3 +2,6 @@ My GitHub Repo: https://github.com/jakescheetz/dotfiles
 OhMyZSH: https://ohmyz.sh
 MIT "Missing Semester of CS" Course: https://missing.csail.mit.edu
 ZSH Syntax Highlighting: https://linuxhint.com/enable-syntax-highlighting-zsh/
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
